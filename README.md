@@ -41,12 +41,12 @@ Child themes, custom templates, plugin ecosystems. Cross-stack delivery: Vue fro
 
 ---
 
-## 📊 Dashboard (2×2×1)
+## 📊 Dashboard
 
 <!-- Row 1 -->
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" >
       <img src="https://github-readme-stats.vercel.app/api?username=Juliusnowel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%"/>
     </td>
     <td width="50%" align="center">
@@ -60,14 +60,14 @@ Child themes, custom templates, plugin ecosystems. Cross-stack delivery: Vue fro
       <img src="https://streak-stats.demolab.com?user=Juliusnowel&theme=tokyonight&hide_border=true" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Juliusnowel&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juliusnowel&theme=tokyo-night&hide_border=true" width="100%"/>
     </td>
   </tr>
 
 <!-- Row 3: full-width -->
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juliusnowel&theme=tokyo-night&hide_border=true" width="100%"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=Juliusnowel&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
     </td>
   </tr>
 </table>
