@@ -47,15 +47,32 @@ Child themes, custom templates, plugin ecosystems. Cross-stack delivery: Vue fro
   <tr>
     <td width="50%" align="center">
       <img
-        alt="GitHub stats"
-        src="https://github-readme-stats.vercel.app/api?username=Juliusnowel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
+        alt="Profile details"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juliusnowel&theme=tokyonight"
         style="max-width: 100%;"
       />
     </td>
     <td width="50%" align="center">
       <img
-        alt="Top languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliusnowel&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+        alt="GitHub stats"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juliusnowel&theme=tokyonight"
+        style="max-width: 100%;"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center">
+      <img
+        alt="Top languages (by repo)"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juliusnowel&theme=tokyonight"
+        style="max-width: 100%;"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        alt="Top languages (by commit)"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Juliusnowel&theme=tokyonight"
         style="max-width: 100%;"
       />
     </td>
